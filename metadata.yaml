@@ -1,0 +1,41 @@
+_repo: War-and-the-Future--Italy-France-and-Britain-at-War_1804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "War and the Future (1917) is a work of war propaganda by H.G. Wells\
+  \ that was published in the North America under the title Italy, France, and Britain\
+  \ at War (the subtitle of the British original). Wells would have preferred the\
+  \ title The War of Ideas, but his publisher over-ruled him. Except for the opening\
+  \ piece, its chapters were published as articles in the press. Though proclaiming\
+  \ early in the volume that \"I avow myself an extreme Pacifist,\" Wells staunchly\
+  \ supported Britain's war against Germany \"in the hope that so we and the world\
+  \ may be freed from the German will-to-power and all its humiliating and disgusting\
+  \ consequences henceforth for ever.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1804'
+  wikidata: Q7968584
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+title: 'War and the Future: Italy, France and Britain at War'
+url: http://www.gutenberg.org/ebooks/1804
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D9%88_%D8%A2%DB%8C%D9%86%D8%AF%D9%87
+- https://en.wikipedia.org/wiki/War_and_the_Future
